@@ -1,5 +1,7 @@
 ![Dave's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ddalcino&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddalcino&hide=Java)
+
 ### MIPSym
 
 [MIPSym](https://mipsym.github.io/mipsym/) is a [MIPS R2000](https://en.wikipedia.org/wiki/R2000_(microprocessor)) emulator and IDE. Binaries are available for Windows, Mac, and Linux. 
