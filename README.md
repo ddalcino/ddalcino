@@ -1,6 +1,5 @@
 ![Dave's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ddalcino&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddalcino&hide=Java)
 
 ### MIPSym
 
