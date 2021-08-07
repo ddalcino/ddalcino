@@ -1,4 +1,12 @@
-[![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalcino)](https://github.com/anuraghazra/github-readme-stats)
+![Dave's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ddalcino&count_private=true)
+
+### MIPSym
+
+[MIPSym](https://mipsym.github.io/mipsym/) is a [MIPS R2000](https://en.wikipedia.org/wiki/R2000_(microprocessor)) emulator and IDE. Binaries are available for Windows, Mac, and Linux. 
+This is a closed-source university research project at [CSU EastBay](https://www.csueastbay.edu/engineering/).
+
+<a href="https://mipsym.github.io/mipsym/"><img src="https://github.com/mipsym/mipsym/blob/main/docs/resources/img/favicon.ico" align="left" height="48" width="48" ></a>
+
 
 <!--
 **ddalcino/ddalcino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
